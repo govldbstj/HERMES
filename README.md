@@ -101,7 +101,7 @@ encoding : utf-8 </br>
 
 ### Android
 > Manifest
->>INTERNET Permission
+>>INTERNET Permission</br>
 >>ACCESS_NETWORK_STATE Permission
 
 ### Demo
