@@ -3,8 +3,7 @@
 </div>
 
 # About The Project
-> Parenting Multitask Helper with Open CV
-> 2022 LG Girls ICT Hackathon Grand finale
+> Parenting Multitask Helper with Open CV </br>2022 LG Girls ICT Hackathon Grand finale
 
 <div>
     <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=Android%20Studio&logoColor=white"/>
